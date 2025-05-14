@@ -1,0 +1,88 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Sugyanjeet Pradhan Portfolio</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background-color: #f4f7fa;
+      color: #333;
+    }
+    header {
+      background-color: #1e3a8a;
+      color: white;
+      padding: 20px 40px;
+      text-align: center;
+    }
+    nav {
+      background-color: #3b82f6;
+      display: flex;
+      justify-content: center;
+      gap: 20px;
+      padding: 10px 0;
+    }
+    nav a {
+      color: white;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    section {
+      padding: 40px;
+      max-width: 800px;
+      margin: auto;
+    }
+    h2 {
+      color: #1e3a8a;
+    }
+    footer {
+      background-color: #1e3a8a;
+      color: white;
+      text-align: center;
+      padding: 20px;
+    }
+    .project-link {
+      color: #2563eb;
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Sugyanjeet Pradhan</h1>
+    <p>Cyber Security Enthusiast | Bot Developer | Olympiad Awardee</p>
+  </header>  <nav>
+    <a href="#about">About Me</a>
+    <a href="#achievements">Achievements</a>
+    <a href="#projects">Projects</a>
+    <a href="#contact">Contact</a>
+  </nav>  <section id="about">
+    <h2>About Me</h2>
+    <p>I am Sugyanjeet Pradhan, a Class 12 student with a deep passion for Cyber Security and Ethical Hacking. Born on 4 September 2008, I completed my schooling at Vikash Global School. My technical interests also include bot development and building digital tools that solve real-world problems.</p>
+  </section>  <section id="achievements">
+    <h2>Achievements</h2>
+    <ul>
+      <li>Gold Medal of Zonal Excellence - National Cyber Olympiad (SOF)</li>
+      <li>Distinction - International Social Studies Olympiad (SOF)</li>
+    </ul>
+  </section>  <section id="projects">
+    <h2>Projects</h2>
+    <p>Here are a few projects I've worked on:</p>
+    <ul>
+      <li><a href="#" class="project-link">Telegram Bot - Auto-Responder and Scheduler</a></li>
+      <li><a href="#" class="project-link">Discord Moderation Bot with AI Filters</a></li>
+      <!-- Add more project links here -->
+    </ul>
+  </section>  <section id="contact">
+    <h2>Contact</h2>
+    <p>If you'd like to collaborate or learn more about my work, feel free to reach out:</p>
+    <ul>
+      <li>Email: <a href="mailto:sugyanjeet@example.com">sugyanjeet@example.com</a></li>
+      <li>LinkedIn: <a href="#">linkedin.com/in/sugyanjeetpradhan</a></li>
+    </ul>
+  </section>  <footer>
+    <p>&copy; 2025 Sugyanjeet Pradhan. All rights reserved.</p>
+  </footer>
+</body>
+</html>
